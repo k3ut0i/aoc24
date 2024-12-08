@@ -1,11 +1,16 @@
 {
-	"commentStamp" : "",
+	"classtraitcomposition" : "Runnable classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"a",
+		"b"
+	],
+	"name" : "Day01",
+	"commentStamp" : "keutoi 12/7/2024 12:06",
 	"super" : "Object",
-	"category" : "AOC-24",
+	"traitcomposition" : "Runnable",
+	"type" : "normal",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Day01",
-	"type" : "normal"
+	"category" : "AOC-24"
 }

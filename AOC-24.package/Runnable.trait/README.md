@@ -1,0 +1,1 @@
+Almost all instance of problems take an input and give and ouput after running them. This trait should codify that behaviour. I want to avoid the rewriting of this every day.
