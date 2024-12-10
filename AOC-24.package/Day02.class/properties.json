@@ -2,11 +2,11 @@
 	"classtraitcomposition" : "Runnable classTrait",
 	"classvars" : [ ],
 	"instvars" : [
-		"a",
-		"b"
+		"data",
+		"diffData"
 	],
-	"name" : "Day01",
-	"commentStamp" : "keutoi 12/7/2024 12:06",
+	"name" : "Day02",
+	"commentStamp" : "keutoi 12/10/2024 12:06",
 	"super" : "Object",
 	"traitcomposition" : "Runnable",
 	"type" : "normal",
