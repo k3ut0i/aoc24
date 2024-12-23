@@ -1,3 +1,3 @@
 running
 part1
-	^ self notImplemented
+	^ self subclassResponsibility.

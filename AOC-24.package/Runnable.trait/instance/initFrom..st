@@ -1,3 +1,3 @@
 instance creation
 initFrom: fileNameOrInput
-	^ self notImplemented.
+	^ self subclassResponsibility .

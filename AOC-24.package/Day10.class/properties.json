@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "Runnable classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"topoMatrix"
+	],
+	"name" : "Day10",
+	"commentStamp" : "keutoi 12/10/2024 12:12",
+	"super" : "Object",
+	"traitcomposition" : "Runnable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "AOC-24"
+}
