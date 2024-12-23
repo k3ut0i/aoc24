@@ -4,4 +4,5 @@ initFrom: fname
 	ls := self getLines: fname.
 	data := ls collect: [ :l | self intsFromString: l ].
 	diffData := OrderedCollection new.
+	self createDiffData.
 	^ self

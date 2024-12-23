@@ -2,14 +2,16 @@
 	"classtraitcomposition" : "Runnable classTrait",
 	"classvars" : [ ],
 	"instvars" : [
-		"topoMatrix"
+		"maze",
+		"xlen",
+		"ylen"
 	],
-	"name" : "Day10",
-	"commentStamp" : "keutoi 12/10/2024 12:12",
+	"name" : "Day04",
+	"commentStamp" : "keutoi 12/23/2024 14:07",
 	"super" : "AocSol",
 	"traitcomposition" : "Runnable",
 	"type" : "normal",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"category" : "AOC-24"
+	"category" : "AOC-24-Solutions"
 }

@@ -7,7 +7,7 @@
 	],
 	"name" : "Day02",
 	"commentStamp" : "keutoi 12/10/2024 12:06",
-	"super" : "Object",
+	"super" : "AocSol",
 	"traitcomposition" : "Runnable",
 	"type" : "normal",
 	"classinstvars" : [ ],

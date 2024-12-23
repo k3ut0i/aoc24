@@ -12,4 +12,6 @@ initFrom: filename
 		a add: (x at: 1).
 		b add: (x at: 2)
 		 ].
+	a sort.
+	b sort.
 	^ self
