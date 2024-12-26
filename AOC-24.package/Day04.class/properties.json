@@ -1,6 +1,10 @@
 {
-	"classtraitcomposition" : "Runnable classTrait",
-	"classvars" : [ ],
+	"classtraitcomposition" : "Runnable classTrait + StringManip classTrait",
+	"classvars" : [
+		"DiagV",
+		"DirV",
+		"PossiblePatterns"
+	],
 	"instvars" : [
 		"maze",
 		"xlen",
@@ -9,7 +13,7 @@
 	"name" : "Day04",
 	"commentStamp" : "keutoi 12/23/2024 14:07",
 	"super" : "AocSol",
-	"traitcomposition" : "Runnable",
+	"traitcomposition" : "Runnable + StringManip",
 	"type" : "normal",
 	"classinstvars" : [ ],
 	"pools" : [ ],

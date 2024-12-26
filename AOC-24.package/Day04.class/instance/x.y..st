@@ -1,3 +1,5 @@
 accessing - array
 x: xc y: yc
-	^ (maze at: yc) at: xc.
+	^ ({ (0 < xc). (0 < yc). (xc <= xlen). (yc <= ylen) } allSatisfy: [ :b | b ])
+			ifTrue: [ (maze at: yc) at: xc ]
+			ifFalse: [ $0 ]
