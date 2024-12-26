@@ -1,1 +1,0 @@
-A number with arithmetic defined in AOC2024-22.

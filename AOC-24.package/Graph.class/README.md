@@ -1,1 +1,0 @@
-A Graph data structure that uses adjacency list representation.

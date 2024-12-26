@@ -1,1 +1,0 @@
-Common code for all Aoc problems.
