@@ -1,1 +1,2 @@
 * Advent of Code - 2024
+I'm trying out both Idris and Pharo.

@@ -1,3 +1,9 @@
+* Day 01 - Historian Hysteria                                         :idris:
+I tried working with _Nat_, but doing minus with it is cumbersome.
+It felt mostly like haskell. I need to check how qualified imports work here.
+- List, Sortedmap data structures.
+- Parsing numbers was a bit of pain.
+
 * Day 17 - Chronospatial Computer
 2.4.1.2.7.5.1.3.4.4.5.5.0.3.3.0
 
