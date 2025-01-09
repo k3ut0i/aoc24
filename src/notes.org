@@ -1,0 +1,6 @@
+* DONE Day 03 - Mull it Over
+Not a particularly efficient parser.
+- could not a find an io function to read all the input from standard in.
+- many functions from haskell are not present.
++ used a _data_ declaration for the first time. This is a lot more useful in idris since we can deconstruct on the each constructor case easily with ~idris-case-dwim~.
+
